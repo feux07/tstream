@@ -106,4 +106,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/feux07/tstream.svg?style=flat-square
 [issues-url]: https://github.com/feux07/tstream/issues
 [license-shield]: https://img.shields.io/github/license/feux07/tstream.svg?style=flat-square
-[license-url]: https://github.com/feux07/tstream/blob/master/LICENSE.txt
+[license-url]: https://github.com/feux07/tstream/blob/master/LICENSE

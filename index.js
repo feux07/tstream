@@ -12,6 +12,9 @@ const { TELEGRAM_TARGET_CHAT_ID, TWITTER_SEARCH_TEXTS } = process.env;
 initializeTelegramBot();
 
 
+sendToUser(TELEGRAM_TARGET_CHAT_ID,
+  `<strong>Tstream is started...</strong>`);
+
 const stream = getStream(TWITTER_SEARCH_TEXTS);
 
 

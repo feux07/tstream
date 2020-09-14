@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 const Twit = require("twit");
 
 import { sendToUser, initializeTelegramBot } from "./services/telegram";

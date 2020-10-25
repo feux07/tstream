@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  tstream:
+    build: .
+    container_name: tstream
+    restart: always

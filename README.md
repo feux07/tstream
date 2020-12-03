@@ -13,10 +13,8 @@
   <h3 align="center">TStream</h3>
 
 <p align="center">
-<img align="center" width="200px" height="auto" src="./assets/tstream_logo1.png">
+<img align="center" width="300px" height="auto" src="./assets/tstream_logo1.png">
 </p>
-
-
   <p align="center">
     Self-hosted Telegram Bot that tracks tweets with specific keywords then sends them to Telegram Chat
     <br />

@@ -9,9 +9,12 @@
 
 <p align="center">
 
+
   <h3 align="center">TStream</h3>
 
-<img align="center" src="./assets/tstream_logo1.png">
+<p align="center">
+<img align="center" width="200px" height="auto" src="./assets/tstream_logo1.png">
+</p>
 
 
   <p align="center">

@@ -34,6 +34,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
 
@@ -84,6 +85,11 @@ TWITTER_SEARCH_TEXTS = YOUR_TWITTER_SEARCH_TEXTS
 ```sh
 node start.js
 ```
+
+
+## Credits
+
+* Illustrator => [Hafsa Uygun](https://www.instagram.com/hafsapinar)
 
 <!-- LICENSE -->
 ## License

@@ -11,6 +11,9 @@
 
   <h3 align="center">TStream</h3>
 
+<img align="center" src="./assets/tstream_logo1.png">
+
+
   <p align="center">
     Self-hosted Telegram Bot that tracks tweets with specific keywords then sends them to Telegram Chat
     <br />
@@ -25,12 +28,13 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contact](#contact)
+- [Table of Contents](#table-of-contents)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
 
 
 <!-- GETTING STARTED -->
